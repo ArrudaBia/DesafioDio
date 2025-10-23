@@ -3,13 +3,12 @@
 ## 🚀 Desafio AWS Step Functions
 ---
 ## 🧩 Descrição do Desafio
----
 
 Este projeto faz parte do laboratório prático sobre AWS Step Functions, com o objetivo de consolidar o aprendizado sobre workflows automatizados na AWS.
 O repositório reúne anotações, insights e exemplos práticos adquiridos durante o estudo.
-
-## 🎯 Objetivos de Aprendizagem
 ---
+## 🎯 Objetivos de Aprendizagem
+
 Aplicar conceitos de orquestração de tarefas com AWS Step Functions.
 
 Criar e entender máquinas de estado (State Machines).
@@ -19,7 +18,7 @@ Documentar processos técnicos de forma clara e reprodutível.
 Utilizar o GitHub para compartilhar documentação técnica.
 ---
 ## ⚙️ Etapas Realizadas
----
+
 Acompanhei todas as vídeo-aulas do laboratório.
 
 Criei um workflow básico com AWS Step Functions:
@@ -33,7 +32,7 @@ Testei o fluxo e registrei os resultados.
 Documentei o processo com capturas de tela e anotações.
 ---
 ## 🧠 Insights e Aprendizados
----
+
 Entendi como Step Functions ajudam a orquestrar funções Lambda e serviços AWS.
 
 Aprendi a criar máquinas de estado em formato JSON para definir fluxos.
@@ -44,7 +43,7 @@ A integração com Lambda, S3 e DynamoDB facilita muito a automação de process
 
 ---
 ## 🧰 Ferramentas Utilizadas
----
+
 AWS Step Functions
 
 AWS Lambda
@@ -54,7 +53,7 @@ AWS CloudWatch
 Visual Studio Code
 
 GitHub
-
+---
 # Gerenciando Instâncias EC2 na AWS - DIO Santander Code Girl
 
 ## 🎯 Objetivo do Laboratório
