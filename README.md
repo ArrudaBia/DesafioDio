@@ -41,6 +41,7 @@ Aprendi a criar máquinas de estado em formato JSON para definir fluxos.
 Percebi que o CloudWatch é essencial para monitorar execuções e depurar erros.
 
 A integração com Lambda, S3 e DynamoDB facilita muito a automação de processos complexos.
+
 ---
 ## 🧰 Ferramentas Utilizadas
 ---
